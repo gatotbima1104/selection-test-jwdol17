@@ -3,7 +3,6 @@
 import Box from "@/components/Box";
 import Button from "@/components/Button";
 import Card from "@/components/Card";
-import { error } from "console";
 import { useEffect, useState } from "react";
 
 export default function Home() {
